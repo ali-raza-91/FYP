@@ -2,12 +2,6 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 9
-names: ['bag', 'bed', 'bottle', 'car', 'chair', 'door', 'sofa', 'table', 'trash-can']
+nc: 7
+names: ['bag', 'car', 'chair', 'door', 'person', 'stair', 'tree']
 
-roboflow:
-  workspace: ali-u2nwj
-  project: dataset-6faes
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/ali-u2nwj/dataset-6faes/dataset/1
