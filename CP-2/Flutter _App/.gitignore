@@ -1,6 +1,0 @@
-build/
-.dart_tool/
-.gradle/
-.idea/
-*.apk
-*.zip
