@@ -1,4 +1,4 @@
-# Navisence 🦯
+# Navisence 📱
 
 **Environment Detection App for Visually Impaired Users**
 
@@ -112,6 +112,6 @@ Contains the list of object class labels used by the detection model.
 
 ## 👤 Developed By
 
-Ali Raza Ansari
-Muhammad Hassan
-muhammad Abdullah Zammad
+- Ali Raza Ansari
+- Muhammad Hassan
+- Muhammad Abdullah Zammad
