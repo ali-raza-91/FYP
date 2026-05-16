@@ -1,4 +1,4 @@
-# Navisence 🦯
+# Navisence
 ### AI-Powered Environment Detection System for Visually Impaired Users
 
 ![Platform](https://img.shields.io/badge/Platform-Flutter-02569B?style=flat-square&logo=flutter)
