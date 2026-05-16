@@ -1,0 +1,7 @@
+bag
+car
+chair
+door
+person
+stair
+tree
